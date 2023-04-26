@@ -1,10 +1,7 @@
-
-# sunandan_s_application2
-
 <div>
   <h1 align="center">Getting Started with Flutter 🚀 </h1>
   <strong>
-    Generated with ❤️ from DhiWise
+    Generated with ❤️ by Om
   </strong>
   <p>
     This is the documentation of Flutter Applications.
