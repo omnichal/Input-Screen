@@ -1,4 +1,4 @@
-name: sunandan_s_application2
+name: Om
 description: A new Flutter project.
 version: 1.0.0+1
 environment: 
@@ -7,6 +7,7 @@ dependencies:
   flutter: 
     sdk: flutter
   get: ^4.6.5
+  dropdown_button2: ^2.1.0
   connectivity_plus: ^2.3.6
   shared_preferences: ^2.0.15
   cached_network_image: ^3.2.1
